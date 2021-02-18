@@ -1,0 +1,24 @@
+{
+  "name": "abe-log",
+  "version": "1.0.0",
+  "description": "log plugin for abejs",
+  "author": "Christopher Fouquier",
+  "license": "ISC",
+  "dependencies": {
+    "light-date": "^1.2.0",
+    "fs": "^0.0.1-security"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdFabConnect/abe-log.git"
+  },
+  "keywords": [
+    "log",
+    "abe",
+    "plugin"
+  ],
+  "bugs": {
+    "url": "https://github.com/AdFabConnect/abe-log/issues"
+  },
+  "homepage": "https://github.com/AdFabConnect/abe-log#readme"
+}
