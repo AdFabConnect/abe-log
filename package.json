@@ -5,7 +5,6 @@
   "author": "Christopher Fouquier",
   "license": "ISC",
   "dependencies": {
-    "light-date": "^1.2.0",
     "fs": "^0.0.1-security"
   },
   "repository": {
